@@ -7,4 +7,4 @@ advanced RTK query API requests with conditional triggers.
 
 ◦ Gained significant experience in HTML, Tailwind CSS, ReactJS, and Git.
 
-### [Website](https://article-sumz-ai.vercel.app/).
+### [Website](https://trekex.vercel.app/).
