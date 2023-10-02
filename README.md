@@ -1,5 +1,4 @@
 #AI Article Summarizer
-July 2023
 
 ◦ Developed a scalable React-powered article summarization platform achieving 90%+ accuracy.
 
@@ -8,4 +7,4 @@ advanced RTK query API requests with conditional triggers.
 
 ◦ Gained significant experience in HTML, Tailwind CSS, ReactJS, and Git.
 
-### can be accessed at [Website](https://article-sumz-ai.vercel.app/).
+### [Website](https://article-sumz-ai.vercel.app/).
